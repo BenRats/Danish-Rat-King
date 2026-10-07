@@ -11,6 +11,6 @@ Put the .vpk file into addon folder and change name to pak01_dir.vpk or any numb
 # Modify in CSDK12
 
 1. Download the game folder and the content folder
-
 2. Go into csdk12 and make a new addon
-3. Insert data from game folder and content folder into game and content folder for your new addon respectively
+3. Unpack game and content zip files
+4. Insert data from game folder and content folder into game and content folder for your new addon respectively
